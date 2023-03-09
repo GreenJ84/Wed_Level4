@@ -1,0 +1,44 @@
+{
+  "files": {
+    "guessing_game.py": [
+      {
+        "id": "90c5cbd1-c10f-4d9c-8d8c-225a690ac658",
+        "line": 5,
+        "version": 585,
+        "index": 88
+      },
+      {
+        "id": "73d884a4-4e73-4b90-b134-4185b0419fae",
+        "line": 6,
+        "version": 585,
+        "index": 129
+      },
+      {
+        "id": "31383d32-2c81-4ae0-8038-dc01d43a441c",
+        "line": 8,
+        "version": 585,
+        "index": 150
+      }
+    ],
+    "main.py": [
+      {
+        "id": "6a828557-d6a8-42a2-95c5-24b1d4302809",
+        "line": 42,
+        "version": 1295,
+        "index": 983
+      },
+      {
+        "id": "2cd86bcd-7fd3-4d4a-8d30-828e15366a86",
+        "line": 43,
+        "version": 1295,
+        "index": 997
+      },
+      {
+        "id": "eb2c85af-b0d0-4bac-8b45-fa55a1f52c65",
+        "line": 45,
+        "version": 1295,
+        "index": 1015
+      }
+    ]
+  }
+}
