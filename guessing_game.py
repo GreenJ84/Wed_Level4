@@ -1,13 +1,11 @@
 # Library -> whole bunch of code someone else wrote
 import random
 
-globalVariable = True
-
 def guessing_game():
   secret_number = random.randint(1, 100)
   num_guesses = 0
   
-  while globalVariable:
+  while True:
     # ask the user to guess
     guess = int(input("Guess a secret number between 1 and 100: "))
     num_guesses += 1
